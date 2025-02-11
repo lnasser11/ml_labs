@@ -9,8 +9,10 @@ dependencies:
   - numpy
   - pandas
   - pip
+  - pyarrow
   - pylint
   - python=3.12
   - scikit-learn
   - scipy
+  - tabulate
   - yapf
